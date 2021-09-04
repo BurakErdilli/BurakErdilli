@@ -8,7 +8,8 @@ career. I also try to improve myself with Courses in finance, e-commerce, 3D des
 and printing In Python and Java programming languages I'm moving forward as well. In
 addition to these, I spend time on photography and computer hardware.
 
-Skills: C# / python / Java / SQL / HTML
+Skills: C# | Flutter/Dart(Beginner) | HTML&CSS Algorithms & Data Structures | Java (Programming Language) for Object
+Oriented Programming | Python
 
 
 - 🌱 I’m currently learning flutter 
