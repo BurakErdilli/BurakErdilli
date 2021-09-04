@@ -10,7 +10,6 @@ addition to these, I spend time on photography and computer hardware.
 
 Skills: C# / python / Java / SQL / HTML
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning flutter 
 
 
