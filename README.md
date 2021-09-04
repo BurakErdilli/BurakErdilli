@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Burak
 #### BACHELOR OF SCIENCE IN COMPUTER ENGINEERING
-![BACHELOR OF SCIENCE IN COMPUTER ENGINEERING](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![BACHELOR OF SCIENCE IN COMPUTER ENGINEERING](https://wallpapercave.com/wp/wp3082255.jpg)
 
 Besides successfully completing undergraduate studies, I am currently
 working on topics such as flutter, .NET, and SQL that I believe will contribute to my
